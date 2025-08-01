@@ -1,4 +1,4 @@
-require("./models/sync")();
+// require("./models/sync")();
 require("dotenv").config();
 
 const express = require("express");
